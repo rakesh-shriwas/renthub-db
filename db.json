@@ -40,9 +40,14 @@
       "priceMode": "monthly",
       "rentNegotiable": true,
       "apartmentFurnished": true,
-      "amenities": ["Gym", "Swimming Pool", "Visitor Parking"],
+      "amenities": [
+        "Gym",
+        "Swimming Pool",
+        "Visitor Parking"
+      ],
       "userId": 1,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 2,
@@ -58,9 +63,13 @@
       "priceMode": "monthly",
       "rentNegotiable": false,
       "apartmentFurnished": false,
-      "amenities": ["Wi-Fi", "24x7 Water"],
+      "amenities": [
+        "Wi-Fi",
+        "24x7 Water"
+      ],
       "userId": 1,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 3,
@@ -76,9 +85,15 @@
       "priceMode": "monthly",
       "rentNegotiable": true,
       "apartmentFurnished": true,
-      "amenities": ["Gym", "Security", "Lift", "Power Backup"],
+      "amenities": [
+        "Gym",
+        "Security",
+        "Lift",
+        "Power Backup"
+      ],
       "userId": 1,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 4,
@@ -94,9 +109,12 @@
       "priceMode": "monthly",
       "rentNegotiable": false,
       "apartmentFurnished": false,
-      "amenities": ["Wi-Fi"],
+      "amenities": [
+        "Wi-Fi"
+      ],
       "userId": 1,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 5,
@@ -112,9 +130,13 @@
       "priceMode": "monthly",
       "rentNegotiable": true,
       "apartmentFurnished": true,
-      "amenities": ["Parking", "Security"],
+      "amenities": [
+        "Parking",
+        "Security"
+      ],
       "userId": 1,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 6,
@@ -130,9 +152,14 @@
       "priceMode": "monthly",
       "rentNegotiable": false,
       "apartmentFurnished": true,
-      "amenities": ["Wi-Fi", "Food", "Laundry"],
+      "amenities": [
+        "Wi-Fi",
+        "Food",
+        "Laundry"
+      ],
       "userId": 2,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 7,
@@ -148,9 +175,14 @@
       "priceMode": "monthly",
       "rentNegotiable": true,
       "apartmentFurnished": true,
-      "amenities": ["Wi-Fi", "Parking", "Balcony"],
+      "amenities": [
+        "Wi-Fi",
+        "Parking",
+        "Balcony"
+      ],
       "userId": 2,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 8,
@@ -166,9 +198,14 @@
       "priceMode": "monthly",
       "rentNegotiable": false,
       "apartmentFurnished": true,
-      "amenities": ["Lift", "Security", "Parking"],
+      "amenities": [
+        "Lift",
+        "Security",
+        "Parking"
+      ],
       "userId": 2,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 9,
@@ -184,9 +221,15 @@
       "priceMode": "monthly",
       "rentNegotiable": true,
       "apartmentFurnished": true,
-      "amenities": ["Terrace", "Lift", "Security", "Power Backup"],
+      "amenities": [
+        "Terrace",
+        "Lift",
+        "Security",
+        "Power Backup"
+      ],
       "userId": 2,
-      "images": []
+      "images": [],
+      "featured": false
     },
     {
       "id": 10,
@@ -202,9 +245,38 @@
       "priceMode": "monthly",
       "rentNegotiable": false,
       "apartmentFurnished": false,
-      "amenities": ["Wi-Fi", "Water", "Common Area"],
+      "amenities": [
+        "Wi-Fi",
+        "Water",
+        "Common Area"
+      ],
       "userId": 2,
-      "images": []
+      "images": [],
+      "featured": false
+    },
+    {
+      "title": "MY Home",
+      "description": "My Home is near the lack pichola",
+      "apartmentType": "Studio Apartment",
+      "name": "Dhaakad",
+      "sharedProperty": true,
+      "location": "Udaipur",
+      "squareFit": "1000",
+      "stayType": "long term",
+      "rent": "300000",
+      "priceMode": "per month",
+      "rentNegotiable": true,
+      "apartmentFurnished": true,
+      "featured": true,
+      "amenities": [
+        "Gym/Fitness Center",
+        "Visitors Parking",
+        "Private Lawn",
+        "Laundry Service"
+      ],
+      "userId": 2,
+      "images": [],
+      "id": 11
     }
   ],
   "favorites": []
