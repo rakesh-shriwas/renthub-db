@@ -59,7 +59,7 @@
       "rentNegotiable": false,
       "apartmentFurnished": false,
       "amenities": ["Wi-Fi", "24x7 Water"],
-      "userId": 2,
+      "userId": 1,
       "images": []
     },
     {
@@ -77,7 +77,7 @@
       "rentNegotiable": true,
       "apartmentFurnished": true,
       "amenities": ["Gym", "Security", "Lift", "Power Backup"],
-      "userId": 3,
+      "userId": 1,
       "images": []
     },
     {
@@ -95,7 +95,7 @@
       "rentNegotiable": false,
       "apartmentFurnished": false,
       "amenities": ["Wi-Fi"],
-      "userId": 4,
+      "userId": 1,
       "images": []
     },
     {
@@ -113,7 +113,7 @@
       "rentNegotiable": true,
       "apartmentFurnished": true,
       "amenities": ["Parking", "Security"],
-      "userId": 5,
+      "userId": 1,
       "images": []
     },
     {
@@ -131,7 +131,7 @@
       "rentNegotiable": false,
       "apartmentFurnished": true,
       "amenities": ["Wi-Fi", "Food", "Laundry"],
-      "userId": 6,
+      "userId": 2,
       "images": []
     },
     {
@@ -149,7 +149,7 @@
       "rentNegotiable": true,
       "apartmentFurnished": true,
       "amenities": ["Wi-Fi", "Parking", "Balcony"],
-      "userId": 7,
+      "userId": 2,
       "images": []
     },
     {
@@ -167,7 +167,7 @@
       "rentNegotiable": false,
       "apartmentFurnished": true,
       "amenities": ["Lift", "Security", "Parking"],
-      "userId": 8,
+      "userId": 2,
       "images": []
     },
     {
@@ -185,7 +185,7 @@
       "rentNegotiable": true,
       "apartmentFurnished": true,
       "amenities": ["Terrace", "Lift", "Security", "Power Backup"],
-      "userId": 9,
+      "userId": 2,
       "images": []
     },
     {
@@ -203,7 +203,7 @@
       "rentNegotiable": false,
       "apartmentFurnished": false,
       "amenities": ["Wi-Fi", "Water", "Common Area"],
-      "userId": 10,
+      "userId": 2,
       "images": []
     }
   ],
