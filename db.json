@@ -294,16 +294,5 @@
       "id": 12
     }
   ],
-  "favorites": [
-    {
-      "postId": 12,
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "postId": 11,
-      "userId": 1,
-      "id": 2
-    }
-  ]
+  "favorites": []
 }
